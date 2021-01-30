@@ -2,30 +2,30 @@ import { Participant } from './participant';
 export const PARTICIPANTSITEMS: Participant[] = [
 {
     id: 1,
-    name: 'Eya',
-    lastname: 'Ghachem',
-    adress: "aaouina - ariana",
-    societe: "Informatique",
+    name: 'Mohamed',
+    lastname: 'Azaiez',
+    adress: "Monastir",
+    societe: "DECADE",
     poste : "developper mobile ",
-    email: 'ghachem@informatique.com'
+    email: 'medazaiez@gmail.com'
 },
 {
     id: 2,
-    name: 'Khalil',
-    lastname: 'Jendoubi',
-    adress: "ghazala",
-    societe: "informatique",
-    poste : "developper",
-    email: 'Khalil@informatique.fr'
+    name: 'Sana',
+    lastname: 'Meddeb',
+    adress: "Ariana",
+    societe: "TALAN",
+    poste : "web developper",
+    email: 'sanameddeb@yahoo.fr'
 },
 {
     id: 3,
-    name: 'Farook',
-    lastname: 'Djaziri',
-    adress: "Monastir",
-    societe: "informatique",
-    poste : "developper",
-    email: 'Farook@informatique.fr'
+    name: 'Amine',
+    lastname: 'Said',
+    adress: "Tunis",
+    societe: "SOFRECOM",
+    poste : "web developper",
+    email: 'aminesaid@yahoo.com'
 },
 
 ];

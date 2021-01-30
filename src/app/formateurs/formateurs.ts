@@ -2,27 +2,27 @@ import { Formateur } from './formateur';
 export const FORMATEURSITEMS: Formateur[] = [
 {
     id: 1,
-    name: 'Eya',
-    lastname: 'Ghachem',
-    adress: "Aaouina - ariana ",
+    name: 'Ilef',
+    lastname: 'Annabi',
+    adress: " Monastir ",
     domaine: "Informatique",
-    email: 'ghachemeya@gmail.com'
+    email: 'ilefannabi@gmail.com'
 },
 {
     id: 1,
-    name: 'Amira',
-    lastname: 'Ghachem',
-    adress: "Aaouina - ariana ",
+    name: 'Cherif',
+    lastname: 'Mairch',
+    adress: "Mahdia ",
     domaine: "Informatique",
-    email: 'Amira@gmail.com'
+    email: 'cherif@gmail.com'
 },
 {
     id: 1,
-    name: 'Kawther',
-    lastname: 'Ghachem',
-    adress: "Aaouina - ariana ",
+    name: 'Ahmed',
+    lastname: 'Tounsi',
+    adress: "Soukra ",
     domaine: "Informatique",
-    email: 'Kawther@gmail.com'
+    email: 'ahmedtounsi@gmail.com'
 },
 
 ];

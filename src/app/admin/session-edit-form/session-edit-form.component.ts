@@ -13,7 +13,7 @@ export class SessionEditFormComponent implements OnInit {
   private sub: any;
   session:any;
   tracks = ['MEAN', 'Angular',
-  'NodeJS', 'Android', 'Swift', 'Xamarin'];
+  'NodeJS', 'Android', 'React JS', 'Xamarin'];
   constructor(private route: ActivatedRoute, private sessionItemService: FakesessionitemService) { }
   ngOnInit() {
   this.sub = this.route.params.subscribe(params => {

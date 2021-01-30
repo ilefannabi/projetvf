@@ -65,7 +65,7 @@
     font-size: 15px;
     font-weight: bold;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: black;
+    color: blueviolet;
    
 }
 
@@ -74,7 +74,7 @@
     font-size: 15px;
     font-weight: bold;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: black;
+    color: blueviolet;
     background-color: white;
     
 }
@@ -87,7 +87,7 @@
     background-color: #29394b;
   }
   header {
-    color: #ffffff;
+    color: #501340;
     padding: 10px;
   }
   header > h1 {
